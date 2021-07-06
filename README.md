@@ -1,4 +1,4 @@
-# QWK - landing page
+# PayPay - Dashboard
 
 few steps requires to run this application
 
