@@ -74,7 +74,7 @@ function AdminView(props) {
 
   const addFeedback = () => {
     let req = { details, user: userId };
-    if (details) {
+    if (details && userId) {
       axios.post("/api/feedback", req).then((res) => {
         alert("Added successfully");
         clearForm();
