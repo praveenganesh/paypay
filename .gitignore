@@ -1,0 +1,13 @@
+node_modules/
+.next
+.nginxbckup.conf
+.DS_Store
+logs/
+.vscode/
+bin/
+out/
+output/
+test.sh
+line-of-code.sh
+yarn-error.log
+package-lock.json

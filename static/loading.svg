@@ -1,0 +1,14 @@
+<!-- <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+    <g fill="#000" fill-rule="nonzero" stroke="#000" stroke-width="1.5">
+        <path d="M14 1a.634.634 0 0 0-.634.634v5.707a.634.634 0 0 0 1.268 0V1.634A.634.634 0 0 0 14 1z" opacity=".6"/>
+        <path d="M5.26 4.627a.642.642 0 0 0-.455.178.64.64 0 0 0 0 .902l4.043 4.032a.628.628 0 0 0 .891 0 .628.628 0 0 0 0-.891L5.707 4.805a.619.619 0 0 0-.446-.178z"/>
+        <path d="M22.74 4.627a.619.619 0 0 0-.447.178l-4.032 4.043a.628.628 0 0 0 0 .891.628.628 0 0 0 .891 0l4.043-4.032a.64.64 0 0 0 0-.902.642.642 0 0 0-.456-.178z" opacity=".6"/>
+        <path d="M1.634 13.366a.634.634 0 1 0 0 1.268h5.707a.634.634 0 0 0 0-1.268H1.634z"/>
+        <path d="M20.659 13.366a.634.634 0 0 0 0 1.268h5.707a.634.634 0 1 0 0-1.268h-5.707z" opacity=".5"/>
+        <path d="M9.293 18.072a.63.63 0 0 0-.445.189l-4.043 4.032a.64.64 0 0 0 0 .902.64.64 0 0 0 .902 0l4.032-4.043a.628.628 0 0 0 0-.891.63.63 0 0 0-.446-.189z"/>
+        <path d="M18.707 18.072a.63.63 0 0 0-.446.189.628.628 0 0 0 0 .891l4.032 4.043a.64.64 0 0 0 .902 0 .64.64 0 0 0 0-.902l-4.043-4.032a.63.63 0 0 0-.445-.189z" opacity=".4"/>
+        <path d="M14 20.024a.634.634 0 0 0-.634.635v5.707a.634.634 0 1 0 1.268 0v-5.707a.634.634 0 0 0-.634-.635z" opacity=".3"/>
+    </g>
+</svg> -->
+
+<svg width="200px"  height="200px"  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" class="lds-rolling" style="background: none;"><circle cx="50" cy="50" fill="none" ng-attr-stroke="{{config.color}}" ng-attr-stroke-width="{{config.width}}" ng-attr-r="{{config.radius}}" ng-attr-stroke-dasharray="{{config.dasharray}}" stroke="#000" stroke-width="10" r="30" stroke-dasharray="141.37166941154067 49.12388980384689" transform="rotate(209.07 50 50)"><animateTransform attributeName="transform" type="rotate" calcMode="linear" values="0 50 50;360 50 50" keyTimes="0;1" dur="1s" begin="0s" repeatCount="indefinite"></animateTransform></circle></svg>
